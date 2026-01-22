@@ -1,0 +1,85 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+.venv/
+venv*/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# env files
+.env
+.env.*
+
+# Database files
+*.sqlite3
+*.db
+vely_dog.db
+vely_dog1.db
+
+# Flask instance folder
+instance/
+
+# Uploads and user generated content
+static/uploads/
+uploads/
+media/
+
+# VSCode
+.vscode/
+
+# IDEs
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Logs
+*.log
+
+# Coverage
+coverage.xml
+
+# node
+node_modules/
+
+# Build
+build/
+dist/
+.eggs/
+*.egg-info/
+
+# VS Code settings for workspace
+*.code-workspace
